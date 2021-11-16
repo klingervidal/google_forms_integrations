@@ -9,7 +9,7 @@ This process will run in a several different work stations and centralize that i
 The Chrome Driver 95 version is embedded on this application (chromedriver.exe).
 
 ### If necessary, you have to check your Chrome browser version, and get the compatible version of the Chrome Driver from "https://chromedriver.chromium.org/downloads".
-### <br>Note: It was developed just with to practice and study the Python Language. The code write and all comments are in English language, just to practice the English lenguage and because too it's considerated a good practice in the develop community, whenever appropriate, implement the codes in English language.<br><br>
+### <br>Note: It was developed just to practice and study the Python Language. The code write and all comments are in English language, just to practice the English lenguage and because too it's considerated a good practice in the develop community, whenever appropriate, implement the codes in English language.<br><br>
 
 > ## Thanks for visiting.
 
