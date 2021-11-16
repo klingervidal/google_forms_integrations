@@ -3,9 +3,8 @@ from browser import get_browser
 
 
 def load_form():
-    get_browser().get("https://docs.google.com/forms/d/e/1FAIpQLScxM63-DsFO1HKCTpCnfY-DHmEBZd6DgBwNUz7_Ooh3blJBmA/viewform")
-    time.sleep(3)
-
+    browser = get_browser().get("https://docs.google.com/forms/d/e/1FAIpQLScxM63-DsFO1HKCTpCnfY-DHmEBZd6DgBwNUz7_Ooh3blJBmA/viewform")
+    time.sleep(1)
 
 def fill_name(name):
     xpath = "/html/body/div/div[2]/form/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input"

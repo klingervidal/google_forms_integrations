@@ -6,7 +6,7 @@ BROWSER = None
 def start_browser():
     options = webdriver.ChromeOptions()
     browser = webdriver.Chrome(executable_path="chromedriver.exe", options=options)
-
+    browser.maximize_window()
     return browser
 
 
